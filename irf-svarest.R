@@ -7,6 +7,8 @@ require("vars")
 # This function plot ALL the shocks regarding the SVAR model. It cannot be used if one
 # is just interested in some shocks.
 
+# Note: titles may be changed in order to fit individual plots' size, e.g., removing "shock from"
+
 # Arguments to be used:
 # model: svarest object;
 # n.ahead: time ahead after the shocks;
