@@ -4,8 +4,8 @@
 
 require("vars")
 
-# This function plot ALL the shocks regarding the SVAR model. It cannot be used if one
-# is just interested in some shocks.
+# This function plot ALL shocks from a SVAR model. It cannot be used if one
+# is just interested in some of the shocks.
 
 # Note: titles may be changed in order to fit individual plots' size, e.g., removing "shock from"
 
